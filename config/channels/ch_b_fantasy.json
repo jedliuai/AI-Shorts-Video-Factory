@@ -1,0 +1,50 @@
+{
+  "channel_id": "CH_B",
+  "channel_name": "Epic Timelapse Construction",
+  "youtube_channel_id": "",
+  "google_account": "",
+  "niche": "Hardcore Timelapse Construction",
+  "description": "Insane 15-second extreme timelapse building content: from mountain-carved bars to mega-pools and spaceships.",
+  "language": "en",
+  "content_style": {
+    "tone": "mind-blowing, fast-paced, satisfying, epic scale",
+    "visual_style": "timelapse effect, frame-drops, fast motion, spectacular final reveals",
+    "themes": [
+      "carving a bar into a mountain",
+      "building an insane mega-pool",
+      "constructing a SpaceX falcon rocket",
+      "building a high-tech photolithography machine",
+      "extreme off-grid construction"
+    ],
+    "avoid": [
+      "slow pacing",
+      "boring standard houses",
+      "non-English speech",
+      "non-English text overlays"
+    ]
+  },
+  "video_specs": {
+    "duration_seconds": 15,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "format": "mp4",
+    "has_audio": true
+  },
+  "naming_prefix": "B",
+  "daily_target": 3,
+  "upload_schedule_et": [
+    "11:30",
+    "19:30",
+    "21:30"
+  ],
+  "trend_keywords": [
+    "timelapse construction",
+    "building time lapse",
+    "satisfying build",
+    "extreme construction",
+    "building a pool",
+    "carving mountain",
+    "fast build"
+  ],
+  "oauth_credential_file": "credentials/ch_b_oauth.json"
+}

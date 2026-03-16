@@ -1,0 +1,24 @@
+{
+  "system_version": "V5",
+  "timezone": "US/Eastern",
+  "language": "en",
+  "video_id_format": "V_{channel_prefix}{4_digit_sequence}",
+  "task_id_format": "TASK_{channel_prefix}{4_digit_sequence}",
+  "channels": ["ch_a", "ch_b", "ch_c"],
+  "daily_videos_per_channel": 3,
+  "total_daily_videos": 9,
+  "video_generation_tool": "Seedance 2.0 (小云雀)",
+  "video_duration_seconds": 15,
+  "upload_concurrency": 1,
+  "upload_interval_minutes": 5,
+  "inbox_scan_interval_minutes": 10,
+  "analytics_fetch_interval_hours": 6,
+  "retry_on_invalid_json": 3,
+  "max_upload_retries": 3,
+  "upload_retry_delays_seconds": [60, 300, 900],
+  "paths": {
+    "nas_shared_dir_windows": "Z:\\shorts_system",
+    "nas_shared_dir_nas": "/vol1/1000/shorts_system/shorts_system",
+    "docker_install_dir_nas": "/vol1/1000/Docker/Youtube shorts"
+  }
+}

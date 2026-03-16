@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Shorts Factory — Control Panel</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #d29922;
+    --text: #e6edf3;
+    --muted: #8b949e;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  header h1 { font-size: 1.4rem; font-weight: 600; }
+  header h1 span { color: var(--accent); }
+
+  #clock {
+    font-size: 0.85rem;
+    color: var(--muted);
+    background: var(--card);
+    padding: 6px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+  }
+
+  .upload-slots {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+  }
+
+  .slot-badge {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  .slot-badge strong { color: var(--accent); }
+
+  .channels-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+  }
+
+  .channel-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    transition: border-color 0.2s;
+  }
+
+  .channel-card:hover { border-color: var(--accent); }
+
+  .ch-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+
+  .ch-name { font-size: 1rem; font-weight: 600; }
+
+  .stat-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+
+  .stat {
+    flex: 1;
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 10px 12px;
+    text-align: center;
+  }
+
+  .stat-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent);
+  }
+
+  .stat-label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 2px;
+  }
+
+  .upload-btn {
+    width: 100%;
+    padding: 11px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #1f6feb, #388bfd);
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .upload-btn:hover:not(:disabled) {
+    background: linear-gradient(135deg, #388bfd, #58a6ff);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(88,166,255,0.3);
+  }
+
+  .upload-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  .upload-btn.triggering {
+    background: linear-gradient(135deg, #d29922, #e3b341);
+  }
+
+  .btn-icon { font-size: 1rem; }
+
+  .recent-uploads {
+    margin-top: 14px;
+    border-top: 1px solid var(--border);
+    padding-top: 12px;
+  }
+
+  .recent-title {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+
+  .upload-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 0;
+    border-bottom: 1px solid rgba(48,54,61,0.4);
+    font-size: 0.78rem;
+  }
+
+  .upload-item:last-child { border-bottom: none; }
+
+  .status-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .status-dot.success { background: var(--green); }
+  .status-dot.failed  { background: var(--red); }
+
+  .upload-item a {
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+  }
+
+  .upload-item a:hover { text-decoration: underline; }
+
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: all 0.3s;
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  .toast.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .toast.success { background: var(--green); color: #000; }
+  .toast.error   { background: var(--red);  color: #fff; }
+  .toast.info    { background: var(--yellow); color: #000; }
+
+  .no-ready {
+    font-size: 0.75rem;
+    color: var(--muted);
+    text-align: center;
+    padding: 6px 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🎬 AI Shorts <span>Factory</span></h1>
+  <div id="clock">{{ now_et }}</div>
+</header>
+
+<div class="upload-slots">
+  <span style="font-size:0.8rem;color:var(--muted);line-height:32px;">⏰ Scheduled uploads (ET):</span>
+  {% for slot in upload_slots %}
+  <div class="slot-badge"><strong>{{ slot }}</strong></div>
+  {% endfor %}
+</div>
+
+<div class="channels-grid" id="channels-grid">
+  {% for s in statuses %}
+  <div class="channel-card" id="card-{{ s.channel }}">
+    <div class="ch-header">
+      <div class="ch-name">{{ s.name }}</div>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat">
+        <div class="stat-value" id="ready-{{ s.channel }}">{{ s.ready_count }}</div>
+        <div class="stat-label">Ready</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" id="uploaded-{{ s.channel }}">{{ s.uploaded_count }}</div>
+        <div class="stat-label">Uploaded</div>
+      </div>
+    </div>
+
+    {% if s.ready_count > 0 %}
+    <button class="upload-btn {% if s.is_triggering %}triggering{% endif %}"
+            id="btn-{{ s.channel }}"
+            onclick="triggerUpload('{{ s.channel }}')"
+            {% if s.is_triggering %}disabled{% endif %}>
+      <span class="btn-icon">{% if s.is_triggering %}⏳{% else %}⚡{% endif %}</span>
+      {% if s.is_triggering %}Uploading…{% else %}Upload Now{% endif %}
+    </button>
+    {% else %}
+    <div class="no-ready">No videos ready in queue</div>
+    {% endif %}
+
+    {% if s.recent_uploads %}
+    <div class="recent-uploads">
+      <div class="recent-title">Recent Uploads</div>
+      {% for r in s.recent_uploads %}
+      <div class="upload-item">
+        <div class="status-dot {{ r.status }}"></div>
+        {% if r.url %}
+        <a href="{{ r.url }}" target="_blank" title="{{ r.title }}">{{ r.title or r.video_id }}</a>
+        {% else %}
+        <span style="color:var(--muted)">{{ r.title or r.video_id }}</span>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+function showToast(msg, type = 'info') {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = `toast ${type} show`;
+  setTimeout(() => t.className = 'toast', 3000);
+}
+
+async function triggerUpload(channel) {
+  const btn = document.getElementById(`btn-${channel}`);
+  btn.disabled = true;
+  btn.innerHTML = '<span class="btn-icon">⏳</span> Triggering…';
+  btn.classList.add('triggering');
+
+  try {
+    const res = await fetch('/api/trigger_upload', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ channel })
+    });
+    const data = await res.json();
+    if (res.ok) {
+      showToast(`✅ Upload triggered for ${channel}!`, 'success');
+    } else {
+      showToast(`❌ ${data.error}`, 'error');
+      btn.disabled = false;
+      btn.innerHTML = '<span class="btn-icon">⚡</span> Upload Now';
+      btn.classList.remove('triggering');
+    }
+  } catch (e) {
+    showToast('❌ Network error', 'error');
+    btn.disabled = false;
+    btn.innerHTML = '<span class="btn-icon">⚡</span> Upload Now';
+    btn.classList.remove('triggering');
+  }
+}
+
+// 每30秒自动刷新状态
+async function refreshStatus() {
+  try {
+    const res = await fetch('/api/status');
+    const data = await res.json();
+    document.getElementById('clock').textContent = data.now_et;
+    data.channels.forEach(ch => {
+      const readyEl = document.getElementById(`ready-${ch.channel}`);
+      const upEl    = document.getElementById(`uploaded-${ch.channel}`);
+      if (readyEl) readyEl.textContent = ch.ready_count;
+      if (upEl)    upEl.textContent    = ch.uploaded_count;
+    });
+  } catch {}
+}
+
+setInterval(refreshStatus, 30000);
+</script>
+</body>
+</html>

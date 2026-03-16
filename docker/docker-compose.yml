@@ -1,0 +1,61 @@
+version: "3.8"
+
+# AI Shorts Factory — Docker Compose
+# NAS: 192.168.5.21
+# 共享目录: /vol1/1000/shorts_system/shorts_system → /shorts_system
+# 控制面板: http://192.168.5.21:9527
+
+services:
+
+  shorts-publisher:
+    image: python:3.11-slim
+    container_name: shorts-publisher
+    volumes:
+      - /vol1/1000/shorts_system/shorts_system:/shorts_system
+    working_dir: /shorts_system
+    environment:
+      - TZ=US/Eastern
+      - PYTHONUNBUFFERED=1
+    command: bash /shorts_system/scripts/start_publisher.sh
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  shorts-dashboard:
+    image: python:3.11-slim
+    container_name: shorts-dashboard
+    volumes:
+      - /vol1/1000/shorts_system/shorts_system:/shorts_system
+    working_dir: /shorts_system
+    environment:
+      - TZ=US/Eastern
+      - PYTHONUNBUFFERED=1
+    command: bash /shorts_system/scripts/start_dashboard.sh
+    ports:
+      - "9527:9527"
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "2"
+
+  shorts-analytics:
+    image: python:3.11-slim
+    container_name: shorts-analytics
+    volumes:
+      - /vol1/1000/shorts_system/shorts_system:/shorts_system
+    working_dir: /shorts_system
+    environment:
+      - TZ=US/Eastern
+      - PYTHONUNBUFFERED=1
+    command: bash /shorts_system/scripts/start_analytics.sh
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

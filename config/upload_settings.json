@@ -1,0 +1,48 @@
+{
+  "schedule": {
+    "timezone": "US/Eastern",
+    "slots": [
+      {
+        "name": "midday",
+        "time": "11:30",
+        "description": "Lunch break traffic peak"
+      },
+      {
+        "name": "evening",
+        "time": "19:30",
+        "description": "After work commute peak"
+      },
+      {
+        "name": "night",
+        "time": "21:30",
+        "description": "Pre-sleep browsing peak"
+      }
+    ],
+    "behavior": {
+      "if_no_video_in_inbox": "skip_and_wait_for_next_slot",
+      "max_uploads_per_slot": 1,
+      "per_channel_per_slot": 1,
+      "note": "Each channel uploads 1 video per slot. If inbox is empty at slot time, skip."
+    }
+  },
+  "upload": {
+    "privacy_status": "public",
+    "category_id": "22",
+    "default_language": "en",
+    "made_for_kids": false,
+    "shorts_tag": "#Shorts",
+    "max_retries": 3,
+    "retry_delays_seconds": [60, 300, 900],
+    "retry_on_http_codes": [500, 502, 503, 504],
+    "retry_on_errors": ["uploadLimitExceeded", "userRateLimitExceeded"],
+    "no_retry_on_http_codes": [400, 401, 404],
+    "upload_timeout_seconds": 600
+  },
+  "video_validation": {
+    "required_format": "mp4",
+    "max_duration_seconds": 60,
+    "min_duration_seconds": 5,
+    "max_file_size_mb": 500,
+    "required_resolution_height": 1920
+  }
+}

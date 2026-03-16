@@ -1,0 +1,1315 @@
+2026-03-11 14:58:19,665 [INFO] ============================================================
+2026-03-11 14:58:19,665 [INFO] Analytics Fetcher started
+2026-03-11 14:58:19,665 [INFO] Fetch interval: 6 hours
+2026-03-11 14:58:19,665 [INFO] ============================================================
+2026-03-11 14:58:19,665 [INFO] Starting analytics fetch cycle...
+2026-03-11 14:58:19,666 [INFO] Fetched analytics for 0 videos
+2026-03-11 14:58:19,666 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-11 15:05:10,498 [INFO] ============================================================
+2026-03-11 15:05:10,499 [INFO] Analytics Fetcher started
+2026-03-11 15:05:10,499 [INFO] Fetch interval: 6 hours
+2026-03-11 15:05:10,499 [INFO] ============================================================
+2026-03-11 15:05:10,499 [INFO] Starting analytics fetch cycle...
+2026-03-11 15:05:10,499 [INFO] Fetched analytics for 0 videos
+2026-03-11 15:05:10,500 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-11 21:05:10,501 [INFO] Starting analytics fetch cycle...
+2026-03-11 21:05:10,503 [INFO] Fetched analytics for 0 videos
+2026-03-11 21:05:10,504 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 03:05:10,504 [INFO] Starting analytics fetch cycle...
+2026-03-12 03:05:10,506 [INFO] Fetched analytics for 0 videos
+2026-03-12 03:05:10,507 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 13:44:53,908 [INFO] ============================================================
+2026-03-12 13:44:53,908 [INFO] Analytics Fetcher started
+2026-03-12 13:44:53,908 [INFO] Fetch interval: 6 hours
+2026-03-12 13:44:53,908 [INFO] ============================================================
+2026-03-12 13:44:53,908 [INFO] Starting analytics fetch cycle...
+2026-03-12 13:44:53,909 [INFO] Fetched analytics for 0 videos
+2026-03-12 13:44:53,909 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 13:50:58,563 [INFO] ============================================================
+2026-03-12 13:50:58,564 [INFO] Analytics Fetcher started
+2026-03-12 13:50:58,564 [INFO] Fetch interval: 6 hours
+2026-03-12 13:50:58,564 [INFO] ============================================================
+2026-03-12 13:50:58,565 [INFO] Starting analytics fetch cycle...
+2026-03-12 13:50:58,566 [INFO] Fetched analytics for 0 videos
+2026-03-12 13:50:58,566 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 14:06:42,717 [INFO] ============================================================
+2026-03-12 14:06:42,717 [INFO] Analytics Fetcher started
+2026-03-12 14:06:42,718 [INFO] Fetch interval: 6 hours
+2026-03-12 14:06:42,718 [INFO] ============================================================
+2026-03-12 14:06:42,718 [INFO] Starting analytics fetch cycle...
+2026-03-12 14:06:42,719 [INFO] Fetched analytics for 0 videos
+2026-03-12 14:06:42,719 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 14:33:02,918 [INFO] ============================================================
+2026-03-12 14:33:02,918 [INFO] Analytics Fetcher started
+2026-03-12 14:33:02,918 [INFO] Fetch interval: 6 hours
+2026-03-12 14:33:02,918 [INFO] ============================================================
+2026-03-12 14:33:02,919 [INFO] Starting analytics fetch cycle...
+2026-03-12 14:33:02,919 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-12 14:33:03,410 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:03,411 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:05,100 [INFO] ✅ Saved performance card for V_A001
+2026-03-12 14:33:05,101 [INFO] Fetched analytics for 1 videos
+2026-03-12 14:33:05,106 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-12.json
+2026-03-12 14:33:05,107 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-12 20:33:05,108 [INFO] Starting analytics fetch cycle...
+2026-03-12 20:33:05,110 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-12 20:33:05,619 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 20:33:06,189 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 20:33:07,902 [INFO] ✅ Saved performance card for V_A001
+2026-03-12 20:33:07,904 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-12 20:33:08,398 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 20:33:08,877 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 20:33:10,495 [INFO] ✅ Saved performance card for V_A002
+2026-03-12 20:33:10,496 [INFO] Fetched analytics for 2 videos
+2026-03-12 20:33:10,499 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-12.json
+2026-03-12 20:33:10,500 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-13 02:33:10,501 [INFO] Starting analytics fetch cycle...
+2026-03-13 02:33:10,503 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-13 02:33:11,008 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:11,582 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:13,282 [INFO] ✅ Saved performance card for V_A001
+2026-03-13 02:33:13,284 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-13 02:33:13,755 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:14,288 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:15,817 [INFO] ✅ Saved performance card for V_A002
+2026-03-13 02:33:15,818 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-13 02:33:16,309 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:16,786 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 02:33:18,398 [INFO] ✅ Saved performance card for V_A003
+2026-03-13 02:33:18,399 [INFO] Fetched analytics for 3 videos
+2026-03-13 02:33:18,405 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-13.json
+2026-03-13 02:33:18,406 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-13 08:33:18,407 [INFO] Starting analytics fetch cycle...
+2026-03-13 08:33:18,416 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-13 08:33:19,005 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:19,498 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:21,072 [INFO] ✅ Saved performance card for V_A001
+2026-03-13 08:33:21,074 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-13 08:33:21,546 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:22,014 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:23,792 [INFO] ✅ Saved performance card for V_A002
+2026-03-13 08:33:23,794 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-13 08:33:24,282 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:24,784 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 08:33:26,681 [INFO] ✅ Saved performance card for V_A003
+2026-03-13 08:33:26,683 [INFO] Fetched analytics for 3 videos
+2026-03-13 08:33:26,687 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-13.json
+2026-03-13 08:33:26,687 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-13 14:29:05,308 [INFO] ============================================================
+2026-03-13 14:29:05,308 [INFO] Analytics Fetcher started
+2026-03-13 14:29:05,308 [INFO] Fetch interval: 6 hours
+2026-03-13 14:29:05,308 [INFO] ============================================================
+2026-03-13 14:29:05,309 [INFO] Starting analytics fetch cycle...
+2026-03-13 14:29:05,309 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-13 14:29:06,244 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:06,714 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:08,585 [INFO] ✅ Saved performance card for V_A001
+2026-03-13 14:29:08,587 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-13 14:29:09,066 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:09,575 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:11,422 [INFO] ✅ Saved performance card for V_A002
+2026-03-13 14:29:11,424 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-13 14:29:12,009 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:12,494 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:14,435 [INFO] ✅ Saved performance card for V_A003
+2026-03-13 14:29:14,436 [INFO] Fetched analytics for 3 videos
+2026-03-13 14:29:14,442 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-13.json
+2026-03-13 14:29:14,443 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-13 20:29:14,444 [INFO] Starting analytics fetch cycle...
+2026-03-13 20:29:14,446 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-13 20:29:14,911 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:15,420 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:17,165 [INFO] ✅ Saved performance card for V_A001
+2026-03-13 20:29:17,167 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-13 20:29:17,645 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:18,076 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:19,681 [INFO] ✅ Saved performance card for V_A002
+2026-03-13 20:29:19,682 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-13 20:29:20,262 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:20,746 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:22,299 [INFO] ✅ Saved performance card for V_A003
+2026-03-13 20:29:22,301 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-13 20:29:22,751 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:23,241 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:24,881 [INFO] ✅ Saved performance card for V_A004
+2026-03-13 20:29:24,882 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-13 20:29:25,439 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:26,016 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:27,785 [INFO] ✅ Saved performance card for V_B001
+2026-03-13 20:29:27,787 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-13 20:29:28,259 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:28,748 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:30,660 [INFO] ✅ Saved performance card for V_C001
+2026-03-13 20:29:30,662 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-13 20:29:31,139 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:31,621 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:33,305 [INFO] ✅ Saved performance card for V_C002
+2026-03-13 20:29:33,305 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-13 20:29:33,805 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:34,259 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:35,880 [INFO] ✅ Saved performance card for V_A005
+2026-03-13 20:29:35,881 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-13 20:29:36,371 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:36,918 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:38,492 [INFO] ✅ Saved performance card for V_B002
+2026-03-13 20:29:38,494 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-13 20:29:39,060 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:39,487 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 20:29:41,141 [INFO] ✅ Saved performance card for V_C003
+2026-03-13 20:29:41,142 [INFO] Fetched analytics for 10 videos
+2026-03-13 20:29:41,150 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-13.json
+2026-03-13 20:29:41,151 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-14 02:29:41,153 [INFO] Starting analytics fetch cycle...
+2026-03-14 02:29:41,165 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-14 02:29:41,744 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:42,228 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:43,461 [INFO] ✅ Saved performance card for V_A001
+2026-03-14 02:29:43,462 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-14 02:29:43,921 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:44,409 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:46,080 [INFO] ✅ Saved performance card for V_A002
+2026-03-14 02:29:46,081 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-14 02:29:46,542 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:47,024 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:48,674 [INFO] ✅ Saved performance card for V_A003
+2026-03-14 02:29:48,675 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-14 02:29:49,129 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:49,617 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:51,184 [INFO] ✅ Saved performance card for V_A004
+2026-03-14 02:29:51,185 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-14 02:29:51,680 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:52,142 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:53,824 [INFO] ✅ Saved performance card for V_B001
+2026-03-14 02:29:53,825 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-14 02:29:54,274 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:54,777 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:56,490 [INFO] ✅ Saved performance card for V_C001
+2026-03-14 02:29:56,492 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-14 02:29:56,963 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:57,448 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:58,669 [INFO] ✅ Saved performance card for V_C002
+2026-03-14 02:29:58,671 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-14 02:29:59,247 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:29:59,738 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:01,355 [INFO] ✅ Saved performance card for V_A005
+2026-03-14 02:30:01,357 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-14 02:30:01,829 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:02,409 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:04,037 [INFO] ✅ Saved performance card for V_B002
+2026-03-14 02:30:04,038 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-14 02:30:04,613 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:05,088 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:06,686 [INFO] ✅ Saved performance card for V_C003
+2026-03-14 02:30:06,688 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-14 02:30:07,149 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:07,633 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:09,265 [INFO] ✅ Saved performance card for V_A006
+2026-03-14 02:30:09,265 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-14 02:30:09,736 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:10,195 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 02:30:11,739 [INFO] ✅ Saved performance card for V_B003
+2026-03-14 02:30:11,740 [INFO] Fetched analytics for 12 videos
+2026-03-14 02:30:11,746 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-14.json
+2026-03-14 02:30:11,747 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-14 08:30:11,748 [INFO] Starting analytics fetch cycle...
+2026-03-14 08:30:11,748 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-14 08:30:12,324 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:12,771 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:14,522 [INFO] ✅ Saved performance card for V_A001
+2026-03-14 08:30:14,524 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-14 08:30:15,080 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:15,678 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:17,519 [INFO] ✅ Saved performance card for V_A002
+2026-03-14 08:30:17,520 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-14 08:30:18,004 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:18,497 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:20,057 [INFO] ✅ Saved performance card for V_A003
+2026-03-14 08:30:20,058 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-14 08:30:20,568 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:21,077 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:22,872 [INFO] ✅ Saved performance card for V_A004
+2026-03-14 08:30:22,874 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-14 08:30:23,369 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:23,884 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:25,524 [INFO] ✅ Saved performance card for V_B001
+2026-03-14 08:30:25,525 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-14 08:30:26,099 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:26,687 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:28,376 [INFO] ✅ Saved performance card for V_C001
+2026-03-14 08:30:28,378 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-14 08:30:28,848 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:29,357 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:31,089 [INFO] ✅ Saved performance card for V_C002
+2026-03-14 08:30:31,091 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-14 08:30:31,550 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:32,129 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:33,648 [INFO] ✅ Saved performance card for V_A005
+2026-03-14 08:30:33,649 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-14 08:30:34,186 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:34,696 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:36,452 [INFO] ✅ Saved performance card for V_B002
+2026-03-14 08:30:36,454 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-14 08:30:37,067 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:37,659 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:39,372 [INFO] ✅ Saved performance card for V_C003
+2026-03-14 08:30:39,374 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-14 08:30:39,863 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:40,399 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:42,194 [INFO] ✅ Saved performance card for V_A006
+2026-03-14 08:30:42,196 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-14 08:30:42,696 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:43,173 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 08:30:44,950 [INFO] ✅ Saved performance card for V_B003
+2026-03-14 08:30:44,951 [INFO] Fetched analytics for 12 videos
+2026-03-14 08:30:44,952 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-14.json
+2026-03-14 08:30:44,952 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-14 10:37:30,169 [INFO] ============================================================
+2026-03-14 10:37:30,169 [INFO] Analytics Fetcher started
+2026-03-14 10:37:30,169 [INFO] Fetch interval: 6 hours
+2026-03-14 10:37:30,169 [INFO] ============================================================
+2026-03-14 10:37:30,169 [INFO] Starting analytics fetch cycle...
+2026-03-14 10:37:30,170 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-14 10:37:31,292 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:31,757 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:33,415 [INFO] ✅ Saved performance card for V_A001
+2026-03-14 10:37:33,417 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-14 10:37:34,086 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:34,517 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:36,183 [INFO] ✅ Saved performance card for V_A002
+2026-03-14 10:37:36,184 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-14 10:37:36,690 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:37,235 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:38,782 [INFO] ✅ Saved performance card for V_A003
+2026-03-14 10:37:38,784 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-14 10:37:39,273 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:39,775 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:41,483 [INFO] ✅ Saved performance card for V_A004
+2026-03-14 10:37:41,484 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-14 10:37:42,019 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:42,480 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:44,090 [INFO] ✅ Saved performance card for V_B001
+2026-03-14 10:37:44,092 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-14 10:37:44,573 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:45,249 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:46,907 [INFO] ✅ Saved performance card for V_C001
+2026-03-14 10:37:46,907 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-14 10:37:47,378 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:47,914 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:49,619 [INFO] ✅ Saved performance card for V_C002
+2026-03-14 10:37:49,620 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-14 10:37:50,066 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:50,526 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:52,002 [INFO] ✅ Saved performance card for V_A005
+2026-03-14 10:37:52,002 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-14 10:37:52,509 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:52,982 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:54,856 [INFO] ✅ Saved performance card for V_B002
+2026-03-14 10:37:54,857 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-14 10:37:55,450 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:55,971 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:57,553 [INFO] ✅ Saved performance card for V_C003
+2026-03-14 10:37:57,554 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-14 10:37:58,224 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:58,722 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:00,374 [INFO] ✅ Saved performance card for V_A006
+2026-03-14 10:38:00,375 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-14 10:38:00,906 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:01,482 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:03,077 [INFO] ✅ Saved performance card for V_B003
+2026-03-14 10:38:03,078 [INFO] Fetched analytics for 12 videos
+2026-03-14 10:38:03,092 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-14.json
+2026-03-14 10:38:03,093 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-14 16:38:03,095 [INFO] Starting analytics fetch cycle...
+2026-03-14 16:38:03,096 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-14 16:38:03,546 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:04,017 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:05,615 [INFO] ✅ Saved performance card for V_A001
+2026-03-14 16:38:05,616 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-14 16:38:06,084 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:06,509 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:08,153 [INFO] ✅ Saved performance card for V_A002
+2026-03-14 16:38:08,153 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-14 16:38:08,611 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:09,062 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:10,699 [INFO] ✅ Saved performance card for V_A003
+2026-03-14 16:38:10,701 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-14 16:38:11,158 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:11,682 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:13,365 [INFO] ✅ Saved performance card for V_A004
+2026-03-14 16:38:13,367 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-14 16:38:13,850 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:14,321 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:16,145 [INFO] ✅ Saved performance card for V_B001
+2026-03-14 16:38:16,147 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-14 16:38:16,619 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:17,151 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:18,822 [INFO] ✅ Saved performance card for V_C001
+2026-03-14 16:38:18,824 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-14 16:38:19,274 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:19,795 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:21,470 [INFO] ✅ Saved performance card for V_C002
+2026-03-14 16:38:21,472 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-14 16:38:21,916 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:22,388 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:23,982 [INFO] ✅ Saved performance card for V_A005
+2026-03-14 16:38:23,983 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-14 16:38:24,455 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:25,078 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:26,827 [INFO] ✅ Saved performance card for V_B002
+2026-03-14 16:38:26,829 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-14 16:38:27,290 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:27,815 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:29,481 [INFO] ✅ Saved performance card for V_C003
+2026-03-14 16:38:29,483 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-14 16:38:29,963 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:30,446 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:32,123 [INFO] ✅ Saved performance card for V_A006
+2026-03-14 16:38:32,124 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-14 16:38:32,731 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:33,288 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:34,926 [INFO] ✅ Saved performance card for V_B003
+2026-03-14 16:38:34,927 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-14 16:38:35,413 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:35,888 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:37,499 [INFO] ✅ Saved performance card for V_A007
+2026-03-14 16:38:37,500 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-14 16:38:37,974 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:38,442 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:40,137 [INFO] ✅ Saved performance card for V_B004
+2026-03-14 16:38:40,138 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-14 16:38:40,625 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:41,219 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 16:38:42,751 [INFO] ✅ Saved performance card for V_C004
+2026-03-14 16:38:42,752 [INFO] Fetched analytics for 15 videos
+2026-03-14 16:38:42,766 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-14.json
+2026-03-14 16:38:42,767 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-14 22:38:42,768 [INFO] Starting analytics fetch cycle...
+2026-03-14 22:38:42,776 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-14 22:38:43,231 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:43,721 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:45,448 [INFO] ✅ Saved performance card for V_A001
+2026-03-14 22:38:45,449 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-14 22:38:46,010 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:46,613 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:48,348 [INFO] ✅ Saved performance card for V_A002
+2026-03-14 22:38:48,349 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-14 22:38:48,810 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:49,363 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:50,937 [INFO] ✅ Saved performance card for V_A003
+2026-03-14 22:38:50,938 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-14 22:38:51,430 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:51,883 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:53,450 [INFO] ✅ Saved performance card for V_A004
+2026-03-14 22:38:53,452 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-14 22:38:54,018 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:54,471 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:56,221 [INFO] ✅ Saved performance card for V_B001
+2026-03-14 22:38:56,223 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-14 22:38:56,801 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:57,371 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:38:59,121 [INFO] ✅ Saved performance card for V_C001
+2026-03-14 22:38:59,123 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-14 22:38:59,567 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:00,228 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:01,908 [INFO] ✅ Saved performance card for V_C002
+2026-03-14 22:39:01,910 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-14 22:39:02,359 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:02,823 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:04,416 [INFO] ✅ Saved performance card for V_A005
+2026-03-14 22:39:04,417 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-14 22:39:04,854 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:05,332 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:06,875 [INFO] ✅ Saved performance card for V_B002
+2026-03-14 22:39:06,876 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-14 22:39:07,431 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:07,923 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:09,564 [INFO] ✅ Saved performance card for V_C003
+2026-03-14 22:39:09,566 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-14 22:39:10,070 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:10,539 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:12,104 [INFO] ✅ Saved performance card for V_A006
+2026-03-14 22:39:12,106 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-14 22:39:12,559 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:13,036 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:14,612 [INFO] ✅ Saved performance card for V_B003
+2026-03-14 22:39:14,614 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-14 22:39:15,082 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:15,523 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:17,105 [INFO] ✅ Saved performance card for V_A007
+2026-03-14 22:39:17,106 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-14 22:39:17,585 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:18,066 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:19,667 [INFO] ✅ Saved performance card for V_B004
+2026-03-14 22:39:19,667 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-14 22:39:20,220 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:20,674 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 22:39:22,279 [INFO] ✅ Saved performance card for V_C004
+2026-03-14 22:39:22,279 [INFO] Fetched analytics for 15 videos
+2026-03-14 22:39:22,283 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-14.json
+2026-03-14 22:39:22,284 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-15 04:39:22,285 [INFO] Starting analytics fetch cycle...
+2026-03-15 04:39:22,288 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-15 04:39:22,754 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:23,210 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:24,834 [INFO] ✅ Saved performance card for V_A001
+2026-03-15 04:39:24,834 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-15 04:39:25,428 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:25,886 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:27,471 [INFO] ✅ Saved performance card for V_A002
+2026-03-15 04:39:27,473 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-15 04:39:27,944 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:28,424 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:29,945 [INFO] ✅ Saved performance card for V_A003
+2026-03-15 04:39:29,946 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-15 04:39:30,483 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:31,014 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:32,729 [INFO] ✅ Saved performance card for V_A004
+2026-03-15 04:39:32,730 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-15 04:39:33,221 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:33,715 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:35,523 [INFO] ✅ Saved performance card for V_B001
+2026-03-15 04:39:35,524 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-15 04:39:35,990 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:36,579 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:38,158 [INFO] ✅ Saved performance card for V_C001
+2026-03-15 04:39:38,158 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-15 04:39:38,722 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:39,315 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:40,945 [INFO] ✅ Saved performance card for V_C002
+2026-03-15 04:39:40,946 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-15 04:39:41,389 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:41,869 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:43,415 [INFO] ✅ Saved performance card for V_A005
+2026-03-15 04:39:43,415 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-15 04:39:43,936 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:44,390 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:45,916 [INFO] ✅ Saved performance card for V_B002
+2026-03-15 04:39:45,917 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-15 04:39:46,433 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:46,891 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:48,710 [INFO] ✅ Saved performance card for V_C003
+2026-03-15 04:39:48,712 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-15 04:39:49,216 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:49,713 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:51,490 [INFO] ✅ Saved performance card for V_A006
+2026-03-15 04:39:51,492 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-15 04:39:51,961 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:52,453 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:54,146 [INFO] ✅ Saved performance card for V_B003
+2026-03-15 04:39:54,148 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-15 04:39:54,635 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:55,104 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:56,724 [INFO] ✅ Saved performance card for V_A007
+2026-03-15 04:39:56,726 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-15 04:39:57,193 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:57,667 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:39:59,268 [INFO] ✅ Saved performance card for V_B004
+2026-03-15 04:39:59,270 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-15 04:39:59,820 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:00,327 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:01,459 [INFO] ✅ Saved performance card for V_C004
+2026-03-15 04:40:01,461 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-15 04:40:01,934 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:02,489 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:04,187 [INFO] ✅ Saved performance card for V_A008
+2026-03-15 04:40:04,188 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-15 04:40:04,672 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:05,259 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:07,015 [INFO] ✅ Saved performance card for V_B005
+2026-03-15 04:40:07,017 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-15 04:40:07,533 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:08,018 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:09,617 [INFO] ✅ Saved performance card for V_C005
+2026-03-15 04:40:09,619 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-15 04:40:10,099 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:10,628 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:12,422 [INFO] ✅ Saved performance card for V_A009
+2026-03-15 04:40:12,422 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-15 04:40:12,993 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:13,444 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:15,197 [INFO] ✅ Saved performance card for V_B006
+2026-03-15 04:40:15,198 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-15 04:40:15,683 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:16,210 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 04:40:17,858 [INFO] ✅ Saved performance card for V_C006
+2026-03-15 04:40:17,859 [INFO] Fetched analytics for 21 videos
+2026-03-15 04:40:17,878 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-15.json
+2026-03-15 04:40:17,879 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-15 10:40:17,880 [INFO] Starting analytics fetch cycle...
+2026-03-15 10:40:17,883 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-15 10:40:18,358 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:18,819 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:20,452 [INFO] ✅ Saved performance card for V_A001
+2026-03-15 10:40:20,454 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-15 10:40:20,951 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:21,407 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:22,953 [INFO] ✅ Saved performance card for V_A002
+2026-03-15 10:40:22,953 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-15 10:40:23,639 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:24,150 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:25,892 [INFO] ✅ Saved performance card for V_A003
+2026-03-15 10:40:25,892 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-15 10:40:26,493 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:26,955 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:28,792 [INFO] ✅ Saved performance card for V_A004
+2026-03-15 10:40:28,793 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-15 10:40:29,288 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:29,799 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:31,390 [INFO] ✅ Saved performance card for V_B001
+2026-03-15 10:40:31,392 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-15 10:40:31,900 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:32,400 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:34,309 [INFO] ✅ Saved performance card for V_C001
+2026-03-15 10:40:34,310 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-15 10:40:34,898 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:35,389 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:36,986 [INFO] ✅ Saved performance card for V_C002
+2026-03-15 10:40:36,987 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-15 10:40:37,456 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:37,962 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:39,161 [INFO] ✅ Saved performance card for V_A005
+2026-03-15 10:40:39,162 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-15 10:40:39,679 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:40,124 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:41,916 [INFO] ✅ Saved performance card for V_B002
+2026-03-15 10:40:41,918 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-15 10:40:42,394 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:42,906 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:44,652 [INFO] ✅ Saved performance card for V_C003
+2026-03-15 10:40:44,653 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-15 10:40:45,255 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:45,728 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:47,382 [INFO] ✅ Saved performance card for V_A006
+2026-03-15 10:40:47,384 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-15 10:40:47,999 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:48,627 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:50,439 [INFO] ✅ Saved performance card for V_B003
+2026-03-15 10:40:50,441 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-15 10:40:50,923 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:51,423 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:53,082 [INFO] ✅ Saved performance card for V_A007
+2026-03-15 10:40:53,082 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-15 10:40:53,638 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:54,363 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:55,963 [INFO] ✅ Saved performance card for V_B004
+2026-03-15 10:40:55,964 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-15 10:40:56,577 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:57,043 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:58,702 [INFO] ✅ Saved performance card for V_C004
+2026-03-15 10:40:58,704 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-15 10:40:59,172 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:40:59,715 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:01,367 [INFO] ✅ Saved performance card for V_A008
+2026-03-15 10:41:01,367 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-15 10:41:01,827 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:02,298 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:03,952 [INFO] ✅ Saved performance card for V_B005
+2026-03-15 10:41:03,953 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-15 10:41:04,421 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:04,869 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:06,538 [INFO] ✅ Saved performance card for V_C005
+2026-03-15 10:41:06,540 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-15 10:41:07,007 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:07,490 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:09,225 [INFO] ✅ Saved performance card for V_A009
+2026-03-15 10:41:09,227 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-15 10:41:09,813 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:10,420 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:12,162 [INFO] ✅ Saved performance card for V_B006
+2026-03-15 10:41:12,163 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-15 10:41:12,611 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:13,052 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:41:14,768 [INFO] ✅ Saved performance card for V_C006
+2026-03-15 10:41:14,768 [INFO] Fetched analytics for 21 videos
+2026-03-15 10:41:14,781 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-15.json
+2026-03-15 10:41:14,782 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-15 16:41:14,784 [INFO] Starting analytics fetch cycle...
+2026-03-15 16:41:14,786 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-15 16:41:15,254 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:15,729 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:17,470 [INFO] ✅ Saved performance card for V_A001
+2026-03-15 16:41:17,472 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-15 16:41:17,941 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:18,520 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:20,224 [INFO] ✅ Saved performance card for V_A002
+2026-03-15 16:41:20,225 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-15 16:41:20,690 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:21,191 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:22,871 [INFO] ✅ Saved performance card for V_A003
+2026-03-15 16:41:22,872 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-15 16:41:23,452 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:23,920 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:25,628 [INFO] ✅ Saved performance card for V_A004
+2026-03-15 16:41:25,630 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-15 16:41:26,100 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:26,645 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:28,440 [INFO] ✅ Saved performance card for V_B001
+2026-03-15 16:41:28,442 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-15 16:41:28,925 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:29,376 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:31,098 [INFO] ✅ Saved performance card for V_C001
+2026-03-15 16:41:31,098 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-15 16:41:31,600 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:32,120 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:33,731 [INFO] ✅ Saved performance card for V_C002
+2026-03-15 16:41:33,731 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-15 16:41:34,200 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:34,774 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:36,311 [INFO] ✅ Saved performance card for V_A005
+2026-03-15 16:41:36,313 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-15 16:41:36,812 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:37,326 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:38,989 [INFO] ✅ Saved performance card for V_B002
+2026-03-15 16:41:38,991 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-15 16:41:39,610 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:40,091 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:41,789 [INFO] ✅ Saved performance card for V_C003
+2026-03-15 16:41:41,791 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-15 16:41:42,293 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:42,772 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:44,425 [INFO] ✅ Saved performance card for V_A006
+2026-03-15 16:41:44,426 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-15 16:41:44,897 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:45,330 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:46,981 [INFO] ✅ Saved performance card for V_B003
+2026-03-15 16:41:46,982 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-15 16:41:47,448 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:47,890 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:49,658 [INFO] ✅ Saved performance card for V_A007
+2026-03-15 16:41:49,660 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-15 16:41:50,159 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:50,652 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:52,260 [INFO] ✅ Saved performance card for V_B004
+2026-03-15 16:41:52,262 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-15 16:41:52,732 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:53,185 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:54,995 [INFO] ✅ Saved performance card for V_C004
+2026-03-15 16:41:54,997 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-15 16:41:55,468 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:55,946 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:57,532 [INFO] ✅ Saved performance card for V_A008
+2026-03-15 16:41:57,534 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-15 16:41:58,036 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:41:58,575 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:00,156 [INFO] ✅ Saved performance card for V_B005
+2026-03-15 16:42:00,158 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-15 16:42:00,656 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:01,109 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:02,821 [INFO] ✅ Saved performance card for V_C005
+2026-03-15 16:42:02,823 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-15 16:42:03,342 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:03,816 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:05,457 [INFO] ✅ Saved performance card for V_A009
+2026-03-15 16:42:05,459 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-15 16:42:05,999 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:06,494 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:08,154 [INFO] ✅ Saved performance card for V_B006
+2026-03-15 16:42:08,155 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-15 16:42:08,620 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:09,098 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:10,879 [INFO] ✅ Saved performance card for V_C006
+2026-03-15 16:42:10,880 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-15 16:42:11,386 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:11,988 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:13,688 [INFO] ✅ Saved performance card for V_A010
+2026-03-15 16:42:13,690 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-15 16:42:14,160 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:14,592 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:16,207 [INFO] ✅ Saved performance card for V_B007
+2026-03-15 16:42:16,209 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-15 16:42:16,692 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:17,178 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 16:42:18,870 [INFO] ✅ Saved performance card for V_C007
+2026-03-15 16:42:18,871 [INFO] Fetched analytics for 24 videos
+2026-03-15 16:42:18,883 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-15.json
+2026-03-15 16:42:18,884 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-15 22:42:18,884 [INFO] Starting analytics fetch cycle...
+2026-03-15 22:42:18,885 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-15 22:42:19,385 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:19,812 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:21,636 [INFO] ✅ Saved performance card for V_A001
+2026-03-15 22:42:21,638 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-15 22:42:22,101 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:22,634 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:24,237 [INFO] ✅ Saved performance card for V_A002
+2026-03-15 22:42:24,239 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-15 22:42:24,690 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:25,200 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:26,810 [INFO] ✅ Saved performance card for V_A003
+2026-03-15 22:42:26,810 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-15 22:42:27,375 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:27,940 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:29,832 [INFO] ✅ Saved performance card for V_A004
+2026-03-15 22:42:29,834 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-15 22:42:30,421 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:30,989 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:32,718 [INFO] ✅ Saved performance card for V_B001
+2026-03-15 22:42:32,720 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-15 22:42:33,176 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:33,663 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:35,328 [INFO] ✅ Saved performance card for V_C001
+2026-03-15 22:42:35,330 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-15 22:42:35,824 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:36,378 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:38,062 [INFO] ✅ Saved performance card for V_C002
+2026-03-15 22:42:38,063 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-15 22:42:38,509 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:38,997 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:40,635 [INFO] ✅ Saved performance card for V_A005
+2026-03-15 22:42:40,635 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-15 22:42:41,099 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:41,587 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:43,261 [INFO] ✅ Saved performance card for V_B002
+2026-03-15 22:42:43,263 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-15 22:42:43,738 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:44,307 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:45,888 [INFO] ✅ Saved performance card for V_C003
+2026-03-15 22:42:45,890 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-15 22:42:46,567 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:47,060 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:48,727 [INFO] ✅ Saved performance card for V_A006
+2026-03-15 22:42:48,728 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-15 22:42:49,268 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:49,740 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:51,407 [INFO] ✅ Saved performance card for V_B003
+2026-03-15 22:42:51,408 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-15 22:42:51,986 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:52,478 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:54,108 [INFO] ✅ Saved performance card for V_A007
+2026-03-15 22:42:54,110 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-15 22:42:54,597 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:55,298 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:56,928 [INFO] ✅ Saved performance card for V_B004
+2026-03-15 22:42:56,929 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-15 22:42:57,431 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:57,879 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:42:59,530 [INFO] ✅ Saved performance card for V_C004
+2026-03-15 22:42:59,532 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-15 22:42:59,983 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:00,469 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:02,068 [INFO] ✅ Saved performance card for V_A008
+2026-03-15 22:43:02,069 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-15 22:43:02,513 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:03,105 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:04,897 [INFO] ✅ Saved performance card for V_B005
+2026-03-15 22:43:04,898 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-15 22:43:05,549 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:06,082 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:07,790 [INFO] ✅ Saved performance card for V_C005
+2026-03-15 22:43:07,792 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-15 22:43:08,234 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:08,718 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:10,327 [INFO] ✅ Saved performance card for V_A009
+2026-03-15 22:43:10,328 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-15 22:43:10,822 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:11,326 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:12,948 [INFO] ✅ Saved performance card for V_B006
+2026-03-15 22:43:12,950 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-15 22:43:13,630 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:14,212 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:15,918 [INFO] ✅ Saved performance card for V_C006
+2026-03-15 22:43:15,920 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-15 22:43:16,434 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:16,924 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:18,727 [INFO] ✅ Saved performance card for V_A010
+2026-03-15 22:43:18,728 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-15 22:43:19,293 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:19,732 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:21,023 [INFO] ✅ Saved performance card for V_B007
+2026-03-15 22:43:21,024 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-15 22:43:21,561 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:22,029 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 22:43:23,668 [INFO] ✅ Saved performance card for V_C007
+2026-03-15 22:43:23,670 [INFO] Fetched analytics for 24 videos
+2026-03-15 22:43:23,681 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-15.json
+2026-03-15 22:43:23,682 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-16 04:43:23,683 [INFO] Starting analytics fetch cycle...
+2026-03-16 04:43:23,685 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-16 04:43:24,193 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:24,768 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:26,586 [INFO] ✅ Saved performance card for V_A001
+2026-03-16 04:43:26,586 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-16 04:43:27,053 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:27,599 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:29,239 [INFO] ✅ Saved performance card for V_A002
+2026-03-16 04:43:29,241 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-16 04:43:29,706 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:30,185 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:31,967 [INFO] ✅ Saved performance card for V_A003
+2026-03-16 04:43:31,968 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-16 04:43:32,538 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:33,014 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:34,768 [INFO] ✅ Saved performance card for V_A004
+2026-03-16 04:43:34,769 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-16 04:43:35,351 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:35,807 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:37,516 [INFO] ✅ Saved performance card for V_B001
+2026-03-16 04:43:37,517 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-16 04:43:38,093 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:38,588 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:40,158 [INFO] ✅ Saved performance card for V_C001
+2026-03-16 04:43:40,159 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-16 04:43:40,731 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:41,299 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:42,870 [INFO] ✅ Saved performance card for V_C002
+2026-03-16 04:43:42,872 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-16 04:43:43,486 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:43,964 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:45,629 [INFO] ✅ Saved performance card for V_A005
+2026-03-16 04:43:45,630 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-16 04:43:46,101 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:46,588 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:48,191 [INFO] ✅ Saved performance card for V_B002
+2026-03-16 04:43:48,193 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-16 04:43:48,789 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:49,281 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:50,980 [INFO] ✅ Saved performance card for V_C003
+2026-03-16 04:43:50,982 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-16 04:43:51,559 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:52,223 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:53,858 [INFO] ✅ Saved performance card for V_A006
+2026-03-16 04:43:53,860 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-16 04:43:54,321 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:54,794 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:56,508 [INFO] ✅ Saved performance card for V_B003
+2026-03-16 04:43:56,509 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-16 04:43:57,035 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:57,511 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:43:59,201 [INFO] ✅ Saved performance card for V_A007
+2026-03-16 04:43:59,203 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-16 04:43:59,694 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:00,173 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:01,893 [INFO] ✅ Saved performance card for V_B004
+2026-03-16 04:44:01,894 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-16 04:44:02,358 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:02,851 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:04,473 [INFO] ✅ Saved performance card for V_C004
+2026-03-16 04:44:04,475 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-16 04:44:04,962 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:05,443 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:07,066 [INFO] ✅ Saved performance card for V_A008
+2026-03-16 04:44:07,066 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-16 04:44:07,767 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:08,268 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:09,843 [INFO] ✅ Saved performance card for V_B005
+2026-03-16 04:44:09,844 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-16 04:44:10,302 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:10,898 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:12,675 [INFO] ✅ Saved performance card for V_C005
+2026-03-16 04:44:12,676 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-16 04:44:13,170 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:13,609 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:15,260 [INFO] ✅ Saved performance card for V_A009
+2026-03-16 04:44:15,261 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-16 04:44:15,840 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:16,326 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:18,056 [INFO] ✅ Saved performance card for V_B006
+2026-03-16 04:44:18,058 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-16 04:44:18,533 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:19,012 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:20,537 [INFO] ✅ Saved performance card for V_C006
+2026-03-16 04:44:20,538 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-16 04:44:21,016 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:21,522 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:23,246 [INFO] ✅ Saved performance card for V_A010
+2026-03-16 04:44:23,247 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-16 04:44:23,803 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:24,343 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:25,937 [INFO] ✅ Saved performance card for V_B007
+2026-03-16 04:44:25,938 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-16 04:44:26,487 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:26,980 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:28,484 [INFO] ✅ Saved performance card for V_C007
+2026-03-16 04:44:28,486 [INFO] Fetching analytics for V_A011 (f7ogX8hZNRY)
+2026-03-16 04:44:29,057 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:29,539 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:31,077 [INFO] ✅ Saved performance card for V_A011
+2026-03-16 04:44:31,079 [INFO] Fetching analytics for V_B008 (bwfMvX8zIDo)
+2026-03-16 04:44:31,646 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:32,140 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:33,890 [INFO] ✅ Saved performance card for V_B008
+2026-03-16 04:44:33,891 [INFO] Fetching analytics for V_C008 (WErQINK7rFI)
+2026-03-16 04:44:34,361 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:35,017 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:36,777 [INFO] ✅ Saved performance card for V_C008
+2026-03-16 04:44:36,779 [INFO] Fetching analytics for V_A012 (PUJrwAOsc1M)
+2026-03-16 04:44:37,246 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:37,738 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:39,357 [INFO] ✅ Saved performance card for V_A012
+2026-03-16 04:44:39,359 [INFO] Fetching analytics for V_B009 (o2hP5z3Yt2Y)
+2026-03-16 04:44:39,831 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:40,391 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:42,024 [INFO] ✅ Saved performance card for V_B009
+2026-03-16 04:44:42,026 [INFO] Fetching analytics for V_C009 (ugfTnwDR4aw)
+2026-03-16 04:44:42,472 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:43,031 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:44:44,697 [INFO] ✅ Saved performance card for V_C009
+2026-03-16 04:44:44,698 [INFO] Fetched analytics for 30 videos
+2026-03-16 04:44:44,712 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-16.json
+2026-03-16 04:44:44,713 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-16 10:44:44,714 [INFO] Starting analytics fetch cycle...
+2026-03-16 10:44:44,715 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-16 10:44:45,376 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:46,038 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:48,030 [INFO] ✅ Saved performance card for V_A001
+2026-03-16 10:44:48,031 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-16 10:44:48,666 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:49,352 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:51,296 [INFO] ✅ Saved performance card for V_A002
+2026-03-16 10:44:51,298 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-16 10:44:52,006 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:52,670 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:54,538 [INFO] ✅ Saved performance card for V_A003
+2026-03-16 10:44:54,539 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-16 10:44:55,175 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:55,866 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:57,909 [INFO] ✅ Saved performance card for V_A004
+2026-03-16 10:44:57,910 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-16 10:44:58,544 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:44:59,224 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:01,297 [INFO] ✅ Saved performance card for V_B001
+2026-03-16 10:45:01,298 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-16 10:45:01,940 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:02,605 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:04,614 [INFO] ✅ Saved performance card for V_C001
+2026-03-16 10:45:04,614 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-16 10:45:05,278 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:05,960 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:07,956 [INFO] ✅ Saved performance card for V_C002
+2026-03-16 10:45:07,956 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-16 10:45:08,602 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:09,262 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:11,194 [INFO] ✅ Saved performance card for V_A005
+2026-03-16 10:45:11,196 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-16 10:45:11,907 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:12,589 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:14,629 [INFO] ✅ Saved performance card for V_B002
+2026-03-16 10:45:14,631 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-16 10:45:15,300 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:16,027 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:18,022 [INFO] ✅ Saved performance card for V_C003
+2026-03-16 10:45:18,023 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-16 10:45:18,675 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:19,358 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:21,356 [INFO] ✅ Saved performance card for V_A006
+2026-03-16 10:45:21,358 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-16 10:45:22,049 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:22,700 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:24,623 [INFO] ✅ Saved performance card for V_B003
+2026-03-16 10:45:24,625 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-16 10:45:25,276 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:25,914 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:27,824 [INFO] ✅ Saved performance card for V_A007
+2026-03-16 10:45:27,825 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-16 10:45:28,497 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:29,136 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:31,073 [INFO] ✅ Saved performance card for V_B004
+2026-03-16 10:45:31,075 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-16 10:45:31,743 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:32,485 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:34,502 [INFO] ✅ Saved performance card for V_C004
+2026-03-16 10:45:34,504 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-16 10:45:35,148 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:35,812 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:37,856 [INFO] ✅ Saved performance card for V_A008
+2026-03-16 10:45:37,858 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-16 10:45:38,537 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:39,179 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:41,173 [INFO] ✅ Saved performance card for V_B005
+2026-03-16 10:45:41,175 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-16 10:45:41,847 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:42,544 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:44,439 [INFO] ✅ Saved performance card for V_C005
+2026-03-16 10:45:44,440 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-16 10:45:45,180 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:45,845 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:47,800 [INFO] ✅ Saved performance card for V_A009
+2026-03-16 10:45:47,801 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-16 10:45:48,474 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:49,149 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:51,151 [INFO] ✅ Saved performance card for V_B006
+2026-03-16 10:45:51,153 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-16 10:45:51,816 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:52,484 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:54,568 [INFO] ✅ Saved performance card for V_C006
+2026-03-16 10:45:54,570 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-16 10:45:55,259 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:55,902 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:57,891 [INFO] ✅ Saved performance card for V_A010
+2026-03-16 10:45:57,892 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-16 10:45:58,533 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:45:59,196 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:01,255 [INFO] ✅ Saved performance card for V_B007
+2026-03-16 10:46:01,257 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-16 10:46:01,935 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:02,618 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:04,563 [INFO] ✅ Saved performance card for V_C007
+2026-03-16 10:46:04,566 [INFO] Fetching analytics for V_A011 (f7ogX8hZNRY)
+2026-03-16 10:46:05,203 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:05,910 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:07,873 [INFO] ✅ Saved performance card for V_A011
+2026-03-16 10:46:07,875 [INFO] Fetching analytics for V_B008 (bwfMvX8zIDo)
+2026-03-16 10:46:08,531 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:09,155 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:11,118 [INFO] ✅ Saved performance card for V_B008
+2026-03-16 10:46:11,119 [INFO] Fetching analytics for V_C008 (WErQINK7rFI)
+2026-03-16 10:46:11,785 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:12,452 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:14,356 [INFO] ✅ Saved performance card for V_C008
+2026-03-16 10:46:14,358 [INFO] Fetching analytics for V_A012 (PUJrwAOsc1M)
+2026-03-16 10:46:15,089 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:15,699 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:17,715 [INFO] ✅ Saved performance card for V_A012
+2026-03-16 10:46:17,716 [INFO] Fetching analytics for V_B009 (o2hP5z3Yt2Y)
+2026-03-16 10:46:18,404 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:19,100 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:21,000 [INFO] ✅ Saved performance card for V_B009
+2026-03-16 10:46:21,002 [INFO] Fetching analytics for V_C009 (ugfTnwDR4aw)
+2026-03-16 10:46:21,652 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:22,296 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:46:24,272 [INFO] ✅ Saved performance card for V_C009
+2026-03-16 10:46:24,273 [INFO] Fetched analytics for 30 videos
+2026-03-16 10:46:24,289 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-16.json
+2026-03-16 10:46:24,291 [INFO] Cycle complete. Next fetch in 6 hours.
+2026-03-16 15:20:33,317 [INFO] ============================================================
+2026-03-16 15:20:33,317 [INFO] Analytics Fetcher started
+2026-03-16 15:20:33,318 [INFO] Fetch interval: 6 hours
+2026-03-16 15:20:33,318 [INFO] ============================================================
+2026-03-16 15:20:33,318 [INFO] Starting analytics fetch cycle...
+2026-03-16 15:20:33,318 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-16 15:20:34,236 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:34,719 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:36,420 [INFO] ✅ Saved performance card for V_A001
+2026-03-16 15:20:36,422 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-16 15:20:36,852 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:37,755 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:39,492 [INFO] ✅ Saved performance card for V_A002
+2026-03-16 15:20:39,493 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-16 15:20:39,994 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:40,487 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:42,650 [INFO] ✅ Saved performance card for V_A003
+2026-03-16 15:20:42,652 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-16 15:20:43,217 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:43,775 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:45,633 [INFO] ✅ Saved performance card for V_A004
+2026-03-16 15:20:45,635 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-16 15:20:46,121 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:46,581 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:48,389 [INFO] ✅ Saved performance card for V_B001
+2026-03-16 15:20:48,391 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-16 15:20:48,943 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:49,532 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:51,279 [INFO] ✅ Saved performance card for V_C001
+2026-03-16 15:20:51,281 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-16 15:20:51,886 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:52,362 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:53,972 [INFO] ✅ Saved performance card for V_C002
+2026-03-16 15:20:53,973 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-16 15:20:54,498 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:54,998 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:56,569 [INFO] ✅ Saved performance card for V_A005
+2026-03-16 15:20:56,571 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-16 15:20:57,149 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:57,868 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:59,528 [INFO] ✅ Saved performance card for V_B002
+2026-03-16 15:20:59,528 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-16 15:20:59,996 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:00,450 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:02,127 [INFO] ✅ Saved performance card for V_C003
+2026-03-16 15:21:02,129 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-16 15:21:02,682 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:03,250 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:05,005 [INFO] ✅ Saved performance card for V_A006
+2026-03-16 15:21:05,007 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-16 15:21:05,508 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:06,002 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:07,789 [INFO] ✅ Saved performance card for V_B003
+2026-03-16 15:21:07,791 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-16 15:21:08,268 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:08,852 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:10,491 [INFO] ✅ Saved performance card for V_A007
+2026-03-16 15:21:10,492 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-16 15:21:11,039 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:11,629 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:13,213 [INFO] ✅ Saved performance card for V_B004
+2026-03-16 15:21:13,214 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-16 15:21:13,789 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:14,292 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:15,967 [INFO] ✅ Saved performance card for V_C004
+2026-03-16 15:21:15,968 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-16 15:21:16,455 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:17,032 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:18,751 [INFO] ✅ Saved performance card for V_A008
+2026-03-16 15:21:18,752 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-16 15:21:19,246 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:19,702 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:21,348 [INFO] ✅ Saved performance card for V_B005
+2026-03-16 15:21:21,350 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-16 15:21:21,836 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:22,464 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:24,136 [INFO] ✅ Saved performance card for V_C005
+2026-03-16 15:21:24,137 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-16 15:21:24,612 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:25,100 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:26,922 [INFO] ✅ Saved performance card for V_A009
+2026-03-16 15:21:26,924 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-16 15:21:27,396 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:27,909 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:29,510 [INFO] ✅ Saved performance card for V_B006
+2026-03-16 15:21:29,512 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-16 15:21:30,124 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:30,613 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:32,151 [INFO] ✅ Saved performance card for V_C006
+2026-03-16 15:21:32,152 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-16 15:21:32,719 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:33,292 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:34,909 [INFO] ✅ Saved performance card for V_A010
+2026-03-16 15:21:34,910 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-16 15:21:35,474 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:36,068 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:37,720 [INFO] ✅ Saved performance card for V_B007
+2026-03-16 15:21:37,722 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-16 15:21:38,284 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:38,763 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:40,696 [INFO] ✅ Saved performance card for V_C007
+2026-03-16 15:21:40,698 [INFO] Fetching analytics for V_A011 (f7ogX8hZNRY)
+2026-03-16 15:21:41,135 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:41,685 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:43,367 [INFO] ✅ Saved performance card for V_A011
+2026-03-16 15:21:43,369 [INFO] Fetching analytics for V_B008 (bwfMvX8zIDo)
+2026-03-16 15:21:43,846 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:44,488 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:46,104 [INFO] ✅ Saved performance card for V_B008
+2026-03-16 15:21:46,105 [INFO] Fetching analytics for V_C008 (WErQINK7rFI)
+2026-03-16 15:21:46,591 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:47,070 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:48,684 [INFO] ✅ Saved performance card for V_C008
+2026-03-16 15:21:48,685 [INFO] Fetching analytics for V_A012 (PUJrwAOsc1M)
+2026-03-16 15:22:36,059 [INFO] ============================================================
+2026-03-16 15:22:36,059 [INFO] Analytics Fetcher started
+2026-03-16 15:22:36,059 [INFO] Fetch interval: 6 hours
+2026-03-16 15:22:36,059 [INFO] ============================================================
+2026-03-16 15:22:36,059 [INFO] Starting analytics fetch cycle...
+2026-03-16 15:22:36,061 [INFO] Fetching analytics for V_A001 (KwQrEJtFIcA)
+2026-03-16 15:22:37,001 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:37,501 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:39,340 [INFO] ✅ Saved performance card for V_A001
+2026-03-16 15:22:39,341 [INFO] Fetching analytics for V_A002 (A8IOG1fEgAE)
+2026-03-16 15:22:39,844 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:40,336 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:41,934 [INFO] ✅ Saved performance card for V_A002
+2026-03-16 15:22:41,935 [INFO] Fetching analytics for V_A003 (loCjZ7m3EKk)
+2026-03-16 15:22:42,422 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:42,844 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:44,372 [INFO] ✅ Saved performance card for V_A003
+2026-03-16 15:22:44,373 [INFO] Fetching analytics for V_A004 (MNFO87S9Dg4)
+2026-03-16 15:22:44,847 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:45,319 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:46,988 [INFO] ✅ Saved performance card for V_A004
+2026-03-16 15:22:46,989 [INFO] Fetching analytics for V_B001 (Vk0LZ5oDKe0)
+2026-03-16 15:22:47,490 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:48,145 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:49,973 [INFO] ✅ Saved performance card for V_B001
+2026-03-16 15:22:49,974 [INFO] Fetching analytics for V_C001 (UcGCIplj1-0)
+2026-03-16 15:22:50,602 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:51,095 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:52,760 [INFO] ✅ Saved performance card for V_C001
+2026-03-16 15:22:52,761 [INFO] Fetching analytics for V_C002 (BsfgdXJU0p0)
+2026-03-16 15:22:53,239 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:53,727 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:55,384 [INFO] ✅ Saved performance card for V_C002
+2026-03-16 15:22:55,385 [INFO] Fetching analytics for V_A005 (Zw_0puAdqIE)
+2026-03-16 15:22:55,823 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:56,287 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:57,878 [INFO] ✅ Saved performance card for V_A005
+2026-03-16 15:22:57,879 [INFO] Fetching analytics for V_B002 (dBLrtOVY01o)
+2026-03-16 15:22:58,429 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:58,882 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:00,465 [INFO] ✅ Saved performance card for V_B002
+2026-03-16 15:23:00,465 [INFO] Fetching analytics for V_C003 (tBVn9mEikHo)
+2026-03-16 15:23:00,916 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:01,439 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:02,978 [INFO] ✅ Saved performance card for V_C003
+2026-03-16 15:23:02,979 [INFO] Fetching analytics for V_A006 (qQcatQxnYJE)
+2026-03-16 15:23:03,510 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:03,931 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:05,484 [INFO] ✅ Saved performance card for V_A006
+2026-03-16 15:23:05,486 [INFO] Fetching analytics for V_B003 (uhnwWDQPSwY)
+2026-03-16 15:23:05,942 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:06,407 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:08,145 [INFO] ✅ Saved performance card for V_B003
+2026-03-16 15:23:08,146 [INFO] Fetching analytics for V_A007 (ziDx8xATSh4)
+2026-03-16 15:23:08,644 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:09,130 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:10,726 [INFO] ✅ Saved performance card for V_A007
+2026-03-16 15:23:10,727 [INFO] Fetching analytics for V_B004 (_rLbS_bwdBo)
+2026-03-16 15:23:11,187 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:11,689 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:13,316 [INFO] ✅ Saved performance card for V_B004
+2026-03-16 15:23:13,318 [INFO] Fetching analytics for V_C004 (Zv4lvoiEjGU)
+2026-03-16 15:23:13,889 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:14,459 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:16,314 [INFO] ✅ Saved performance card for V_C004
+2026-03-16 15:23:16,316 [INFO] Fetching analytics for V_A008 (z-TwmuxOpVs)
+2026-03-16 15:23:16,792 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:17,268 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:19,069 [INFO] ✅ Saved performance card for V_A008
+2026-03-16 15:23:19,069 [INFO] Fetching analytics for V_B005 (k5w0ug4RKbg)
+2026-03-16 15:23:19,566 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:20,043 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:21,734 [INFO] ✅ Saved performance card for V_B005
+2026-03-16 15:23:21,736 [INFO] Fetching analytics for V_C005 (MZZz-fkdomk)
+2026-03-16 15:23:22,295 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:22,986 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:24,715 [INFO] ✅ Saved performance card for V_C005
+2026-03-16 15:23:24,716 [INFO] Fetching analytics for V_A009 (w-XZI1cDtKo)
+2026-03-16 15:23:25,179 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:25,641 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:27,272 [INFO] ✅ Saved performance card for V_A009
+2026-03-16 15:23:27,273 [INFO] Fetching analytics for V_B006 (mVjv9-xEI6c)
+2026-03-16 15:23:27,765 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:28,207 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:29,734 [INFO] ✅ Saved performance card for V_B006
+2026-03-16 15:23:29,736 [INFO] Fetching analytics for V_C006 (r04QFj0wmVI)
+2026-03-16 15:23:30,300 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:30,761 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:32,397 [INFO] ✅ Saved performance card for V_C006
+2026-03-16 15:23:32,398 [INFO] Fetching analytics for V_A010 (xAzYsvaVIwg)
+2026-03-16 15:23:32,862 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:33,379 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:34,997 [INFO] ✅ Saved performance card for V_A010
+2026-03-16 15:23:34,999 [INFO] Fetching analytics for V_B007 (YWb04f-OeQQ)
+2026-03-16 15:23:35,448 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:35,915 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:37,768 [INFO] ✅ Saved performance card for V_B007
+2026-03-16 15:23:37,770 [INFO] Fetching analytics for V_C007 (CA_ecfD6gjU)
+2026-03-16 15:23:38,349 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:38,920 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:40,470 [INFO] ✅ Saved performance card for V_C007
+2026-03-16 15:23:40,472 [INFO] Fetching analytics for V_A011 (f7ogX8hZNRY)
+2026-03-16 15:23:40,969 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:41,502 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:43,213 [INFO] ✅ Saved performance card for V_A011
+2026-03-16 15:23:43,215 [INFO] Fetching analytics for V_B008 (bwfMvX8zIDo)
+2026-03-16 15:23:43,681 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:44,158 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:45,803 [INFO] ✅ Saved performance card for V_B008
+2026-03-16 15:23:45,805 [INFO] Fetching analytics for V_C008 (WErQINK7rFI)
+2026-03-16 15:23:46,300 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:46,842 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:48,721 [INFO] ✅ Saved performance card for V_C008
+2026-03-16 15:23:48,723 [INFO] Fetching analytics for V_A012 (PUJrwAOsc1M)
+2026-03-16 15:23:49,191 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:49,649 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:51,209 [INFO] ✅ Saved performance card for V_A012
+2026-03-16 15:23:51,210 [INFO] Fetching analytics for V_B009 (o2hP5z3Yt2Y)
+2026-03-16 15:23:51,834 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:52,326 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:54,243 [INFO] ✅ Saved performance card for V_B009
+2026-03-16 15:23:54,245 [INFO] Fetching analytics for V_C009 (ugfTnwDR4aw)
+2026-03-16 15:23:54,720 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:55,147 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:56,763 [INFO] ✅ Saved performance card for V_C009
+2026-03-16 15:23:56,763 [INFO] Fetched analytics for 30 videos
+2026-03-16 15:23:56,766 [INFO] ✅ Generated daily summary: /shorts_system/analytics/summaries/daily_report_2026-03-16.json
+2026-03-16 15:23:56,767 [INFO] Cycle complete. Next fetch in 6 hours.

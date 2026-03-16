@@ -1,0 +1,8 @@
+FROM python:3.11-slim
+
+WORKDIR /shorts_system
+
+COPY docker/requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+
+CMD ["python", "scripts/analytics/fetch_analytics.py"]

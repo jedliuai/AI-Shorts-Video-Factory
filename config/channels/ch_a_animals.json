@@ -1,0 +1,37 @@
+{
+  "channel_id": "CH_A",
+  "channel_name": "AI Animal Stories",
+  "youtube_channel_id": "",
+  "google_account": "",
+  "niche": "AI Animal Drama",
+  "description": "AI-generated animal drama shorts featuring animal interactions, quirky behaviors, and plot twists",
+  "language": "en",
+  "content_style": {
+    "tone": "dramatic, heartwarming, surprising, highly exaggerated",
+    "visual_style": "photorealistic animals, cinematic lighting, dramatic transformations, Seedance 2.0 aesthetics",
+    "themes": [
+      "Animal Evolution (Normal -> Bigger -> Mythical)",
+      "Animal Jobs (Animals in human roles)",
+      "Giant Animals (Normal -> City scale)",
+      "Animal Mecha (Animals turning into mecha robots)",
+      "Animal Civilization (Animals living like humans)",
+      "Tom and Jerry Real-life Imitation (Exaggerated, hilarious, stark contrast)"
+    ],
+    "avoid": ["violence", "animal cruelty", "long boring scenes", "non-English speech", "non-English text overlays"]
+  },
+  "video_specs": {
+    "duration_seconds": 15,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "format": "mp4",
+    "has_audio": true
+  },
+  "naming_prefix": "A",
+  "daily_target": 3,
+  "upload_schedule_et": ["11:30", "19:30", "21:30"],
+  "trend_keywords": [
+    "tiger", "wolf", "lion", "cat", "dragon", "eagle", "shark", "fox", "phoenix",
+    "animal evolution", "giant animal", "animal mecha", "funny cat mouse"
+  ],
+  "oauth_credential_file": "credentials/ch_a_oauth.json"
+}

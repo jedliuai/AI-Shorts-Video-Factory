@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-16T11:23:34.899072-04:00",
+  "channels": {
+    "ch_a": {
+      "total_found": 128,
+      "benchmarks_100k": 105,
+      "fetched_at": "2026-03-16T11:23:03.677074-04:00"
+    },
+    "ch_b": {
+      "total_found": 65,
+      "benchmarks_100k": 34,
+      "fetched_at": "2026-03-16T11:23:18.126644-04:00"
+    },
+    "ch_c": {
+      "total_found": 110,
+      "benchmarks_100k": 40,
+      "fetched_at": "2026-03-16T11:23:34.889369-04:00"
+    }
+  }
+}

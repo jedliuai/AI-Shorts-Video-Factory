@@ -1,0 +1,443 @@
+2026-03-12 14:33:02,910 [INFO] YouTube API key loaded ✅ (ends with ...ewC95Y)
+2026-03-12 14:33:02,910 [INFO] ==================================================
+2026-03-12 14:33:02,911 [INFO] Trend fetch cycle started at 2026-03-12 10:33 ET
+2026-03-12 14:33:02,911 [INFO] Fetching trends for ch_a...
+2026-03-12 14:33:02,911 [INFO]   Searching: 'animal shorts'
+2026-03-12 14:33:03,350 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:05,399 [INFO]   Searching: 'cute animals'
+2026-03-12 14:33:05,403 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:07,606 [INFO]   Searching: 'funny animals'
+2026-03-12 14:33:07,610 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:09,707 [INFO]   Searching: 'animal rescue'
+2026-03-12 14:33:09,711 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:11,815 [INFO]   Searching: 'dog cat friendship'
+2026-03-12 14:33:11,819 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:14,080 [INFO]   Searching: 'wild animals'
+2026-03-12 14:33:14,085 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:16,374 [INFO]   Searching: 'baby animals'
+2026-03-12 14:33:16,379 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:18,480 [INFO]   Searching: 'animal drama'
+2026-03-12 14:33:18,481 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:20,562 [INFO]   ✅ ch_a: 107 videos found, 93 benchmarks (100k+), saved to trends_2026-03-12.json
+2026-03-12 14:33:20,563 [INFO] Fetching trends for ch_b...
+2026-03-12 14:33:20,563 [INFO]   Searching: 'AI art'
+2026-03-12 14:33:20,564 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:22,631 [INFO]   Searching: 'surreal video'
+2026-03-12 14:33:22,636 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:24,662 [INFO]   Searching: 'fantasy world'
+2026-03-12 14:33:24,667 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:26,849 [INFO]   Searching: 'futuristic city'
+2026-03-12 14:33:26,850 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:28,963 [INFO]   Searching: 'giant creature'
+2026-03-12 14:33:28,964 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:31,074 [INFO]   Searching: 'impossible physics'
+2026-03-12 14:33:31,079 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:33,221 [INFO]   Searching: 'cosmic event'
+2026-03-12 14:33:33,227 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:35,248 [INFO]   Searching: 'visual spectacle'
+2026-03-12 14:33:35,253 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:37,243 [INFO]   ✅ ch_b: 76 videos found, 28 benchmarks (100k+), saved to trends_2026-03-12.json
+2026-03-12 14:33:37,244 [INFO] Fetching trends for ch_c...
+2026-03-12 14:33:37,245 [INFO]   Searching: 'did you know'
+2026-03-12 14:33:37,248 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:39,347 [INFO]   Searching: 'cool facts'
+2026-03-12 14:33:39,348 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:41,396 [INFO]   Searching: 'science shorts'
+2026-03-12 14:33:41,400 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:43,588 [INFO]   Searching: 'mind blown'
+2026-03-12 14:33:43,593 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:45,729 [INFO]   Searching: 'crazy facts'
+2026-03-12 14:33:45,734 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:47,773 [INFO]   Searching: 'fun facts'
+2026-03-12 14:33:47,782 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:49,769 [INFO]   Searching: 'knowledge shorts'
+2026-03-12 14:33:49,773 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:51,910 [INFO]   Searching: 'things you didn't know'
+2026-03-12 14:33:51,914 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-12 14:33:54,029 [INFO]   ✅ ch_c: 56 videos found, 56 benchmarks (100k+), saved to trends_2026-03-12.json
+2026-03-12 14:33:54,032 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-12 14:33:54,033 [INFO] ==================================================
+2026-03-13 14:29:05,304 [INFO] YouTube API key loaded ✅ (ends with ...ewC95Y)
+2026-03-13 14:29:05,304 [INFO] ==================================================
+2026-03-13 14:29:05,304 [INFO] Trend fetch cycle started at 2026-03-13 10:29 ET
+2026-03-13 14:29:05,304 [INFO] Fetching trends for ch_a...
+2026-03-13 14:29:05,305 [INFO]   Searching: 'animal shorts'
+2026-03-13 14:29:05,629 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:07,683 [INFO]   Searching: 'cute animals'
+2026-03-13 14:29:07,689 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:09,811 [INFO]   Searching: 'funny animals'
+2026-03-13 14:29:09,814 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:12,032 [INFO]   Searching: 'animal rescue'
+2026-03-13 14:29:12,038 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:14,058 [INFO]   Searching: 'dog cat friendship'
+2026-03-13 14:29:14,062 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:16,200 [INFO]   Searching: 'wild animals'
+2026-03-13 14:29:16,204 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:18,249 [INFO]   Searching: 'baby animals'
+2026-03-13 14:29:18,253 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:20,271 [INFO]   Searching: 'animal drama'
+2026-03-13 14:29:20,275 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:22,388 [INFO]   ✅ ch_a: 77 videos found, 60 benchmarks (100k+), saved to trends_2026-03-13.json
+2026-03-13 14:29:22,389 [INFO] Fetching trends for ch_b...
+2026-03-13 14:29:22,390 [INFO]   Searching: 'AI art'
+2026-03-13 14:29:22,394 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:24,526 [INFO]   Searching: 'surreal video'
+2026-03-13 14:29:24,531 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:26,553 [INFO]   Searching: 'fantasy world'
+2026-03-13 14:29:26,558 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:28,756 [INFO]   Searching: 'futuristic city'
+2026-03-13 14:29:28,760 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:31,065 [INFO]   Searching: 'giant creature'
+2026-03-13 14:29:31,070 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:33,158 [INFO]   Searching: 'impossible physics'
+2026-03-13 14:29:33,162 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:35,212 [INFO]   Searching: 'cosmic event'
+2026-03-13 14:29:35,216 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:37,451 [INFO]   Searching: 'visual spectacle'
+2026-03-13 14:29:37,455 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:39,472 [INFO]   ✅ ch_b: 90 videos found, 27 benchmarks (100k+), saved to trends_2026-03-13.json
+2026-03-13 14:29:39,473 [INFO] Fetching trends for ch_c...
+2026-03-13 14:29:39,475 [INFO]   Searching: 'did you know'
+2026-03-13 14:29:39,477 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:41,379 [INFO]   Searching: 'cool facts'
+2026-03-13 14:29:41,383 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:43,441 [INFO]   Searching: 'science shorts'
+2026-03-13 14:29:43,445 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:45,525 [INFO]   Searching: 'mind blown'
+2026-03-13 14:29:45,527 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:47,592 [INFO]   Searching: 'crazy facts'
+2026-03-13 14:29:47,597 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:49,589 [INFO]   Searching: 'fun facts'
+2026-03-13 14:29:49,592 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:51,687 [INFO]   Searching: 'knowledge shorts'
+2026-03-13 14:29:51,692 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:53,695 [INFO]   Searching: 'things you didn't know'
+2026-03-13 14:29:53,696 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-13 14:29:55,829 [INFO]   ✅ ch_c: 54 videos found, 50 benchmarks (100k+), saved to trends_2026-03-13.json
+2026-03-13 14:29:55,830 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-13 14:29:55,830 [INFO] ==================================================
+2026-03-14 10:37:30,169 [INFO] YouTube API key loaded ✅ (ends with ...ewC95Y)
+2026-03-14 10:37:30,169 [INFO] ==================================================
+2026-03-14 10:37:30,169 [INFO] Trend fetch cycle started at 2026-03-14 06:37 ET
+2026-03-14 10:37:30,169 [INFO] Fetching trends for ch_a...
+2026-03-14 10:37:30,169 [INFO]   Searching: 'animal shorts'
+2026-03-14 10:37:30,610 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:32,678 [INFO]   Searching: 'cute animals'
+2026-03-14 10:37:32,681 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:34,974 [INFO]   Searching: 'funny animals'
+2026-03-14 10:37:34,978 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:37,032 [INFO]   Searching: 'animal rescue'
+2026-03-14 10:37:37,036 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:39,117 [INFO]   Searching: 'dog cat friendship'
+2026-03-14 10:37:39,121 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:41,131 [INFO]   Searching: 'wild animals'
+2026-03-14 10:37:41,133 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:43,310 [INFO]   Searching: 'baby animals'
+2026-03-14 10:37:43,311 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:45,380 [INFO]   Searching: 'animal drama'
+2026-03-14 10:37:45,381 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:47,535 [INFO]   ✅ ch_a: 77 videos found, 66 benchmarks (100k+), saved to trends_2026-03-14.json
+2026-03-14 10:37:47,536 [INFO] Fetching trends for ch_b...
+2026-03-14 10:37:47,537 [INFO]   Searching: 'AI art'
+2026-03-14 10:37:47,541 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:49,666 [INFO]   Searching: 'surreal video'
+2026-03-14 10:37:49,668 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:51,825 [INFO]   Searching: 'fantasy world'
+2026-03-14 10:37:51,826 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:54,099 [INFO]   Searching: 'futuristic city'
+2026-03-14 10:37:54,100 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:56,234 [INFO]   Searching: 'giant creature'
+2026-03-14 10:37:56,238 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:37:58,347 [INFO]   Searching: 'impossible physics'
+2026-03-14 10:37:58,351 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:00,449 [INFO]   Searching: 'cosmic event'
+2026-03-14 10:38:00,450 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:02,486 [INFO]   Searching: 'visual spectacle'
+2026-03-14 10:38:02,490 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:04,678 [INFO]   ✅ ch_b: 103 videos found, 28 benchmarks (100k+), saved to trends_2026-03-14.json
+2026-03-14 10:38:04,678 [INFO] Fetching trends for ch_c...
+2026-03-14 10:38:04,678 [INFO]   Searching: 'did you know'
+2026-03-14 10:38:04,679 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:06,703 [INFO]   Searching: 'cool facts'
+2026-03-14 10:38:06,706 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:08,907 [INFO]   Searching: 'science shorts'
+2026-03-14 10:38:08,908 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:11,269 [INFO]   Searching: 'mind blown'
+2026-03-14 10:38:11,274 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:13,303 [INFO]   Searching: 'crazy facts'
+2026-03-14 10:38:13,307 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:15,356 [INFO]   Searching: 'fun facts'
+2026-03-14 10:38:15,360 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:17,409 [INFO]   Searching: 'knowledge shorts'
+2026-03-14 10:38:17,410 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:19,570 [INFO]   Searching: 'things you didn't know'
+2026-03-14 10:38:19,571 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-14 10:38:21,682 [INFO]   ✅ ch_c: 85 videos found, 84 benchmarks (100k+), saved to trends_2026-03-14.json
+2026-03-14 10:38:21,683 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-14 10:38:21,683 [INFO] ==================================================
+2026-03-15 10:38:21,684 [INFO] ==================================================
+2026-03-15 10:38:21,685 [INFO] Trend fetch cycle started at 2026-03-15 06:38 ET
+2026-03-15 10:38:21,685 [INFO] Fetching trends for ch_a...
+2026-03-15 10:38:21,686 [INFO]   Searching: 'tiger'
+2026-03-15 10:38:21,689 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:23,862 [INFO]   Searching: 'wolf'
+2026-03-15 10:38:23,866 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:26,006 [INFO]   Searching: 'lion'
+2026-03-15 10:38:26,010 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:28,091 [INFO]   Searching: 'cat'
+2026-03-15 10:38:28,095 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:30,302 [INFO]   Searching: 'dragon'
+2026-03-15 10:38:30,307 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:32,367 [INFO]   Searching: 'eagle'
+2026-03-15 10:38:32,371 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:34,345 [INFO]   Searching: 'shark'
+2026-03-15 10:38:34,348 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:36,601 [INFO]   Searching: 'fox'
+2026-03-15 10:38:36,605 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:38,630 [INFO]   Searching: 'phoenix'
+2026-03-15 10:38:38,631 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:40,707 [INFO]   Searching: 'animal evolution'
+2026-03-15 10:38:40,709 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:42,709 [INFO]   Searching: 'giant animal'
+2026-03-15 10:38:42,713 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:44,919 [INFO]   Searching: 'animal mecha'
+2026-03-15 10:38:44,925 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:46,882 [INFO]   Searching: 'funny cat mouse'
+2026-03-15 10:38:46,887 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:49,046 [INFO]   ✅ ch_a: 164 videos found, 122 benchmarks (100k+), saved to trends_2026-03-15.json
+2026-03-15 10:38:49,047 [INFO] Fetching trends for ch_b...
+2026-03-15 10:38:49,048 [INFO]   Searching: 'timelapse construction'
+2026-03-15 10:38:49,051 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:51,020 [INFO]   Searching: 'building time lapse'
+2026-03-15 10:38:51,024 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:52,981 [INFO]   Searching: 'satisfying build'
+2026-03-15 10:38:52,982 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:55,152 [INFO]   Searching: 'extreme construction'
+2026-03-15 10:38:55,157 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:57,385 [INFO]   Searching: 'building a pool'
+2026-03-15 10:38:57,388 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:38:59,515 [INFO]   Searching: 'carving mountain'
+2026-03-15 10:38:59,520 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:01,508 [INFO]   Searching: 'fast build'
+2026-03-15 10:39:01,511 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:03,521 [INFO]   ✅ ch_b: 67 videos found, 41 benchmarks (100k+), saved to trends_2026-03-15.json
+2026-03-15 10:39:03,522 [INFO] Fetching trends for ch_c...
+2026-03-15 10:39:03,523 [INFO]   Searching: 'vfx animation'
+2026-03-15 10:39:03,526 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:05,683 [INFO]   Searching: 'beautiful girl anime'
+2026-03-15 10:39:05,687 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:07,896 [INFO]   Searching: 'game cutscene'
+2026-03-15 10:39:07,899 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:09,898 [INFO]   Searching: 'stunning visuals'
+2026-03-15 10:39:09,899 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:11,877 [INFO]   Searching: 'epic edit'
+2026-03-15 10:39:11,881 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:13,950 [INFO]   Searching: 'AMV style'
+2026-03-15 10:39:13,954 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:15,978 [INFO]   Searching: 'magical girl'
+2026-03-15 10:39:15,983 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:18,105 [INFO]   Searching: 'action animation'
+2026-03-15 10:39:18,109 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-15 10:39:20,090 [INFO]   ✅ ch_c: 95 videos found, 34 benchmarks (100k+), saved to trends_2026-03-15.json
+2026-03-15 10:39:20,093 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-15 10:39:20,094 [INFO] ==================================================
+2026-03-16 10:39:20,095 [INFO] ==================================================
+2026-03-16 10:39:20,097 [INFO] Trend fetch cycle started at 2026-03-16 06:39 ET
+2026-03-16 10:39:20,097 [INFO] Fetching trends for ch_a...
+2026-03-16 10:39:20,099 [INFO]   Searching: 'tiger'
+2026-03-16 10:39:20,103 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:22,430 [INFO]   Searching: 'wolf'
+2026-03-16 10:39:22,434 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:24,863 [INFO]   Searching: 'lion'
+2026-03-16 10:39:24,867 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:27,060 [INFO]   Searching: 'cat'
+2026-03-16 10:39:27,064 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:29,392 [INFO]   Searching: 'dragon'
+2026-03-16 10:39:29,395 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:31,901 [INFO]   Searching: 'eagle'
+2026-03-16 10:39:31,904 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:34,192 [INFO]   Searching: 'shark'
+2026-03-16 10:39:34,196 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:36,385 [INFO]   Searching: 'fox'
+2026-03-16 10:39:36,389 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:38,744 [INFO]   Searching: 'phoenix'
+2026-03-16 10:39:38,749 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:41,099 [INFO]   Searching: 'animal evolution'
+2026-03-16 10:39:41,104 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:43,368 [INFO]   Searching: 'giant animal'
+2026-03-16 10:39:43,370 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:45,640 [INFO]   Searching: 'animal mecha'
+2026-03-16 10:39:45,645 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:47,894 [INFO]   Searching: 'funny cat mouse'
+2026-03-16 10:39:47,899 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:50,224 [INFO]   ✅ ch_a: 140 videos found, 118 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 10:39:50,225 [INFO] Fetching trends for ch_b...
+2026-03-16 10:39:50,226 [INFO]   Searching: 'timelapse construction'
+2026-03-16 10:39:50,228 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:52,453 [INFO]   Searching: 'building time lapse'
+2026-03-16 10:39:52,456 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:54,696 [INFO]   Searching: 'satisfying build'
+2026-03-16 10:39:54,699 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:56,960 [INFO]   Searching: 'extreme construction'
+2026-03-16 10:39:56,963 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:39:59,242 [INFO]   Searching: 'building a pool'
+2026-03-16 10:39:59,257 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:01,653 [INFO]   Searching: 'carving mountain'
+2026-03-16 10:40:01,657 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:03,879 [INFO]   Searching: 'fast build'
+2026-03-16 10:40:03,883 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:06,186 [INFO]   ✅ ch_b: 65 videos found, 33 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 10:40:06,186 [INFO] Fetching trends for ch_c...
+2026-03-16 10:40:06,186 [INFO]   Searching: 'vfx animation'
+2026-03-16 10:40:06,187 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:08,471 [INFO]   Searching: 'beautiful girl anime'
+2026-03-16 10:40:08,474 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:10,904 [INFO]   Searching: 'game cutscene'
+2026-03-16 10:40:10,908 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:13,312 [INFO]   Searching: 'stunning visuals'
+2026-03-16 10:40:13,316 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:15,540 [INFO]   Searching: 'epic edit'
+2026-03-16 10:40:15,544 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:17,921 [INFO]   Searching: 'AMV style'
+2026-03-16 10:40:17,925 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:20,273 [INFO]   Searching: 'magical girl'
+2026-03-16 10:40:20,278 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:22,604 [INFO]   Searching: 'action animation'
+2026-03-16 10:40:22,607 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 10:40:24,916 [INFO]   ✅ ch_c: 110 videos found, 43 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 10:40:24,919 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-16 10:40:24,919 [INFO] ==================================================
+2026-03-16 15:20:33,321 [INFO] YouTube API key loaded ✅ (ends with ...ewC95Y)
+2026-03-16 15:20:33,321 [INFO] ==================================================
+2026-03-16 15:20:33,321 [INFO] Trend fetch cycle started at 2026-03-16 11:20 ET
+2026-03-16 15:20:33,321 [INFO] Fetching trends for ch_a...
+2026-03-16 15:20:33,322 [INFO]   Searching: 'tiger'
+2026-03-16 15:20:33,688 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:35,735 [INFO]   Searching: 'wolf'
+2026-03-16 15:20:35,739 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:37,976 [INFO]   Searching: 'lion'
+2026-03-16 15:20:37,980 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:40,164 [INFO]   Searching: 'cat'
+2026-03-16 15:20:40,167 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:42,217 [INFO]   Searching: 'dragon'
+2026-03-16 15:20:42,221 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:44,602 [INFO]   Searching: 'eagle'
+2026-03-16 15:20:44,605 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:46,569 [INFO]   Searching: 'shark'
+2026-03-16 15:20:46,573 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:48,573 [INFO]   Searching: 'fox'
+2026-03-16 15:20:48,577 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:50,684 [INFO]   Searching: 'phoenix'
+2026-03-16 15:20:50,688 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:52,807 [INFO]   Searching: 'animal evolution'
+2026-03-16 15:20:52,810 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:54,898 [INFO]   Searching: 'giant animal'
+2026-03-16 15:20:54,902 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:57,009 [INFO]   Searching: 'animal mecha'
+2026-03-16 15:20:57,014 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:20:59,029 [INFO]   Searching: 'funny cat mouse'
+2026-03-16 15:20:59,033 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:01,177 [INFO]   ✅ ch_a: 159 videos found, 122 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:21:01,177 [INFO] Fetching trends for ch_b...
+2026-03-16 15:21:01,178 [INFO]   Searching: 'timelapse construction'
+2026-03-16 15:21:01,179 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:03,266 [INFO]   Searching: 'building time lapse'
+2026-03-16 15:21:03,270 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:05,273 [INFO]   Searching: 'satisfying build'
+2026-03-16 15:21:05,277 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:07,318 [INFO]   Searching: 'extreme construction'
+2026-03-16 15:21:07,322 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:09,417 [INFO]   Searching: 'building a pool'
+2026-03-16 15:21:09,420 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:11,540 [INFO]   Searching: 'carving mountain'
+2026-03-16 15:21:11,544 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:13,646 [INFO]   Searching: 'fast build'
+2026-03-16 15:21:13,650 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:15,752 [INFO]   ✅ ch_b: 65 videos found, 35 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:21:15,753 [INFO] Fetching trends for ch_c...
+2026-03-16 15:21:15,754 [INFO]   Searching: 'vfx animation'
+2026-03-16 15:21:15,757 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:17,847 [INFO]   Searching: 'beautiful girl anime'
+2026-03-16 15:21:17,849 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:20,063 [INFO]   Searching: 'game cutscene'
+2026-03-16 15:21:20,067 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:22,106 [INFO]   Searching: 'stunning visuals'
+2026-03-16 15:21:22,110 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:24,078 [INFO]   Searching: 'epic edit'
+2026-03-16 15:21:24,082 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:26,240 [INFO]   Searching: 'AMV style'
+2026-03-16 15:21:26,244 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:28,424 [INFO]   Searching: 'magical girl'
+2026-03-16 15:21:28,429 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:30,573 [INFO]   Searching: 'action animation'
+2026-03-16 15:21:30,577 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:21:32,809 [INFO]   ✅ ch_c: 85 videos found, 36 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:21:32,812 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-16 15:21:32,813 [INFO] ==================================================
+2026-03-16 15:22:36,059 [INFO] YouTube API key loaded ✅ (ends with ...ewC95Y)
+2026-03-16 15:22:36,059 [INFO] ==================================================
+2026-03-16 15:22:36,059 [INFO] Trend fetch cycle started at 2026-03-16 11:22 ET
+2026-03-16 15:22:36,059 [INFO] Fetching trends for ch_a...
+2026-03-16 15:22:36,060 [INFO]   Searching: 'tiger'
+2026-03-16 15:22:36,496 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:38,532 [INFO]   Searching: 'wolf'
+2026-03-16 15:22:38,536 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:40,707 [INFO]   Searching: 'lion'
+2026-03-16 15:22:40,711 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:42,685 [INFO]   Searching: 'cat'
+2026-03-16 15:22:42,691 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:44,799 [INFO]   Searching: 'dragon'
+2026-03-16 15:22:44,803 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:46,884 [INFO]   Searching: 'eagle'
+2026-03-16 15:22:46,889 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:49,193 [INFO]   Searching: 'shark'
+2026-03-16 15:22:49,198 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:51,203 [INFO]   Searching: 'fox'
+2026-03-16 15:22:51,205 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:53,316 [INFO]   Searching: 'phoenix'
+2026-03-16 15:22:53,317 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:55,334 [INFO]   Searching: 'animal evolution'
+2026-03-16 15:22:55,337 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:57,448 [INFO]   Searching: 'giant animal'
+2026-03-16 15:22:57,453 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:22:59,513 [INFO]   Searching: 'animal mecha'
+2026-03-16 15:22:59,514 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:01,514 [INFO]   Searching: 'funny cat mouse'
+2026-03-16 15:23:01,515 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:03,686 [INFO]   ✅ ch_a: 128 videos found, 105 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:23:03,686 [INFO] Fetching trends for ch_b...
+2026-03-16 15:23:03,686 [INFO]   Searching: 'timelapse construction'
+2026-03-16 15:23:03,687 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:05,611 [INFO]   Searching: 'building time lapse'
+2026-03-16 15:23:05,615 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:07,753 [INFO]   Searching: 'satisfying build'
+2026-03-16 15:23:07,756 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:09,829 [INFO]   Searching: 'extreme construction'
+2026-03-16 15:23:09,833 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:11,991 [INFO]   Searching: 'building a pool'
+2026-03-16 15:23:11,995 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:14,023 [INFO]   Searching: 'carving mountain'
+2026-03-16 15:23:14,027 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:16,052 [INFO]   Searching: 'fast build'
+2026-03-16 15:23:16,056 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:18,146 [INFO]   ✅ ch_b: 65 videos found, 34 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:23:18,148 [INFO] Fetching trends for ch_c...
+2026-03-16 15:23:18,149 [INFO]   Searching: 'vfx animation'
+2026-03-16 15:23:18,154 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:20,233 [INFO]   Searching: 'beautiful girl anime'
+2026-03-16 15:23:20,237 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:22,458 [INFO]   Searching: 'game cutscene'
+2026-03-16 15:23:22,462 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:24,552 [INFO]   Searching: 'stunning visuals'
+2026-03-16 15:23:24,557 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:26,551 [INFO]   Searching: 'epic edit'
+2026-03-16 15:23:26,555 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:28,747 [INFO]   Searching: 'AMV style'
+2026-03-16 15:23:28,748 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:30,862 [INFO]   Searching: 'magical girl'
+2026-03-16 15:23:30,865 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:32,918 [INFO]   Searching: 'action animation'
+2026-03-16 15:23:32,919 [INFO] file_cache is only supported with oauth2client<4.0.0
+2026-03-16 15:23:34,898 [INFO]   ✅ ch_c: 110 videos found, 40 benchmarks (100k+), saved to trends_2026-03-16.json
+2026-03-16 15:23:34,899 [INFO] Trend cycle complete. Next fetch in 24 hours.
+2026-03-16 15:23:34,899 [INFO] ==================================================

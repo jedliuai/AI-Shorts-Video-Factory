@@ -1,0 +1,36 @@
+{
+  "channel_id": "CH_C",
+  "channel_name": "Stunning VFX Animation",
+  "youtube_channel_id": "",
+  "google_account": "",
+  "niche": "High-Quality VFX Anime Edit",
+  "description": "Visually stunning, hyper-detailed VFX animations mixing game-cutscene style with beautiful female protagonists.",
+  "language": "en",
+  "content_style": {
+    "tone": "high-energy, gorgeous, mysterious, visually explosive",
+    "visual_style": "extremely detailed, beautiful female protagonists, fast camera movement, game cutscene quality",
+    "themes": [
+      "female warrior on a fantasy adventure",
+      "magical girl vs mechanical enemies",
+      "sky city epic chase scene",
+      "stunning goddess transformations",
+      "cyberpunk beauty in neon action"
+    ],
+    "avoid": ["low resolution", "boring slow pans", "non-English speech", "non-English text overlays"]
+  },
+  "video_specs": {
+    "duration_seconds": 15,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "format": "mp4",
+    "has_audio": true
+  },
+  "naming_prefix": "C",
+  "daily_target": 3,
+  "upload_schedule_et": ["11:30", "19:30", "21:30"],
+  "trend_keywords": [
+    "vfx animation", "beautiful girl anime", "game cutscene", "stunning visuals",
+    "epic edit", "AMV style", "magical girl", "action animation"
+  ],
+  "oauth_credential_file": "credentials/ch_c_oauth.json"
+}

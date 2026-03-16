@@ -1,0 +1,8 @@
+{
+  "video_id": "V_A001",
+  "channel": "ch_a",
+  "status": "failed",
+  "error": "could not locate runnable browser",
+  "failed_at": "2026-03-11T11:26:13.532208-04:00",
+  "attempts": 4
+}
