@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # 🎬 AI Shorts Factory V5
 **An Autonomous, Data-Driven YouTube Shorts Generation & Publishing Matrix**  
 *(全自动且基于数据驱动的 YouTube Shorts 矩阵生成与发布系统)*
